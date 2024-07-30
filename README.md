@@ -59,8 +59,8 @@ My goal is to develop IT services that can provide convenience and help to the l
 
 ## CONTACT
 
-[![Tech Blog](https://img.shields.io/badge/Tistory-FF8000?style=flat-square&logo=Tistory&logoColor=white)](https://mollydays.tistory.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamheonil@gmail.com)](mailto:wlsekgus12@gmail.com)
+[![Tech Blog](https://img.shields.io/badge/Tistory-FF8000?style=for-the-badge&logo=tistory&logoColor=white)](https://mollydays.tistory.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wlsekgus12@gmail.com)
 
 </div>
 </div>
