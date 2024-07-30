@@ -16,7 +16,7 @@
 
 <!-- My CV/resume -->
 <details>
-<summary>About Me</summary>
+<summary><h3>👾 About Me 👾</h3></summary>
 
 <div align="left">
 
