@@ -7,7 +7,7 @@
   <!-- Title Typing Effect Over Venom Background -->
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Dahyeon+Jin;Front-end+Developer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Dahyeon+JIN;Front-end+Developer" alt="Typing SVG" />
     </a>
   </div>
 </div>
@@ -22,14 +22,24 @@
 
 ## INTRODUCTION
 
-안녕하세요, 프론트엔드 개발자 진다현입니다.
-저는 불편함을 잘 인지하는 성격이며 사용자 입장에서 불편할 만한 요소를 섬세하게 관찰 및 사전에 제거하고 최적화하는 것을 좋아합니다.
-많은 분들에게 편익과 삶에 도움을 드릴 수 있는 IT 서비스를 개발하는 것을 목표로 하고 있습니다 :)
+안녕하세요! 프론트엔드 개발자 진다현입니다.
+
+- 사용자 편의성과 UI/UX에 관심이 많아요!
+- 세련되고 감각적인 디자인으로 웹 화면을 구성하길 좋아해요.
+- 설계 및 개발해서 지인 및 불특정 다수에게 자랑하고 피드백을 받는 것을 즐겨요.
+- 이 과정에서 모르는 내용이 있다면 주저하지 않고 알아보며, 사용자 피드백을 반영하는 것에서 짜릿함과 뿌듯함을 느껴요.
+
+많은 분들에게 편익과 삶에 도움을 드릴 수 있는 IT 서비스를 개발하는 것을 목표로 하고 있어요 :)
 
 <br>
 
-Hello, this is Jin Da-hyeon, a front-end developer.
-I am a person who is very aware of inconveniences, and I like to carefully observe, eliminate and optimize elements that may be inconvenient for users.
+Hello! I'm Dahyeon JIN, a Front-end Developer.
+
+- I am very interested in user convenience and UI/UX!
+- I like to configure web screens with sophisticated and sensuous designs.
+- I enjoy designing and developing something, showing it off to friends and unspecified people, and receiving feedback.
+- During this process, if there is something I don't know, I don't hesitate to find out, and I feel a sense of excitement and satisfaction from reflecting user feedback.
+
 My goal is to develop IT services that can provide convenience and help to the lives of many people :)
 
 ## EDUCATION
