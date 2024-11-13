@@ -24,8 +24,8 @@
 
 안녕하세요! 프론트엔드 개발자 진다현입니다.
 
-- 사용자 편의성과 UI/UX에 관심이 많아요!
-- 세련되고 감각적인 디자인으로 웹 화면을 구성하길 좋아해요.
+- 불편함을 해결하고, 세련되고 감각적인 디자인으로 웹 화면을 구성하길 좋아해요!
+- 사용자 편의성과 UI/UX에 관심이 많아요.
 - 설계 및 개발해서 지인 및 불특정 다수에게 자랑하고 피드백을 받는 것을 즐겨요.
 - 이 과정에서 모르는 내용이 있다면 주저하지 않고 알아보며, 사용자 피드백을 반영하는 것에서 짜릿함과 뿌듯함을 느껴요.
 
@@ -35,8 +35,8 @@
 
 Hello! I'm Dahyeon JIN, a Front-end Developer.
 
-- I am very interested in user convenience and UI/UX!
-- I like to configure web screens with sophisticated and sensuous designs.
+- I like solving inconveniences and configuring web screens with sophisticated and sensuous designs!
+- I'm very interested in user convenience and UI/UX.
 - I enjoy designing and developing something, showing it off to friends and unspecified people, and receiving feedback.
 - During this process, if there is something I don't know, I don't hesitate to find out, and I feel a sense of excitement and satisfaction from reflecting user feedback.
 
