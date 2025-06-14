@@ -92,13 +92,6 @@ My goal is to develop IT services that can provide convenience and help to the l
     </a>
 </div>
 
-<br>
-
-<!-- Hit counter -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdahyeo-n&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
-
-<br><br>
-
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8871e5,100:b678c4&stroke=b678c4&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
