@@ -44,31 +44,8 @@ My goal is to develop IT services that can provide convenience and help to the l
 
 <br>
 
-## ENVIRONMENT
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-
-## TECH STACKS
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TanstackQuery](https://img.shields.io/badge/TanstackQuery-FF4000?style=for-the-badge&logo=tanstackquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-FACC2E?style=for-the-badge&logo=zustand&logoColor=white)
-
-## OTHER TOOLS
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
-
-## CONTACT
-
-[![Tech Blog](https://img.shields.io/badge/Tistory-FF8000?style=for-the-badge&logo=tistory&logoColor=white)](https://mollydays.tistory.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wlsekgus12@gmail.com)
+## Tech Stacks
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vscode,git,github,figma&theme=dark" />
 
   </div>
   </div>
@@ -77,9 +54,6 @@ My goal is to develop IT services that can provide convenience and help to the l
 <br>
 
 <div align="center"> 
-  <!-- My profile -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahyeo-n&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-  <img src="https://github-readme-stats.vercel.app/api?username=dahyeo-n&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dahyeo-n&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
   <div>
@@ -87,6 +61,9 @@ My goal is to develop IT services that can provide convenience and help to the l
       <img height="180em" width=405 src="http://github-readme-streak-stats.herokuapp.com?user=dahyeo-n&hide_border=true&theme=black-ice" alt="" />
     </a>
   </div>
+  <!-- Visitor counter -->
+  <img src="https://komarev.com/ghpvc/?username=dahyeo-n&label=Profile%20Views&color=8871e5&style=flat" alt="profile views" />
+  <br><br>
 
   <!-- Footer banner -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8871e5,100:b678c4&stroke=b678c4&height=40&section=footer&text=&fontSize=0" width="100%"/>
